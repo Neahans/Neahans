@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://github.com/Neahans">Neaha N S</a> <img src="animated/repo.gif" height="40" /></h1>
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://github.com/Neahans">Neaha N S</a> <img src="animated/frst.gif" height="60" /></h1>
 
 <div align="center">
 
