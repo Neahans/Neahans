@@ -59,7 +59,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
----
+
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Neahans&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
