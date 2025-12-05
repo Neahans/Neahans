@@ -72,12 +72,6 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Neahans&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
----
-
 <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
@@ -93,7 +87,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
   </div>
 </a>
 </div>
-
+---
 <details>
   <summary>More</summary>
   - 🌱 I love learning new tech and turning ideas into real projects 
