@@ -78,7 +78,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 ---
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 <div>
@@ -96,16 +96,12 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 <details>
   <summary>More</summary>
-  - 🔭 Studying at UEC  
-  - 🌱 Learning JavaScript, React, GitHub Workflows  
-  - 🤝 Looking to collaborate on open-source and learn backend  
-  - ⚡ Fun fact: Debug faster with music
+  - 🌱 I love learning new tech and turning ideas into real projects 
+  -🎨 I enjoy designing clean UI
 </details>
 
 ---
 
-<img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=Neahans&pretty=true)](https://visitcount.itsvg.in)
-
----
+<img src="animated/light_5.gif" height="30px" /> 
 
 <em><b>I love connecting with fellow developers</b> and tech enthusiasts! Feel free to say <b>hi</b> — I'm always open to learning and collaboration :)</em>
