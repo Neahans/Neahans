@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://github.com/Neahans">Neaha N S</a> <img src="animated/frst.gif" height="60" /></h1>
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://github.com/Neahans">Neaha N S</a> <img src="animated/unicorn.gif" height="40" /></h1>
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 ---
 
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 <div>
