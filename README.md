@@ -74,7 +74,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 [![](https://visitcount.itsvg.in/api?id=Neahans&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ---
 
@@ -97,6 +97,7 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 <details>
   <summary>More</summary>
   - 🌱 I love learning new tech and turning ideas into real projects 
+
   -🎨 I enjoy designing clean UI
 </details>
 
