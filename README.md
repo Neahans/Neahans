@@ -4,12 +4,12 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neaha.official@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Neahans)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- add your LinkedIn URL if you want -->
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neaha-ns) 
 </div>
 
 ---
 
-<img src="animated/hands.gif" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="animated/girl.gif" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Student at UEC
 - 👯 Looking to collaborate on open-source projects
@@ -39,7 +39,6 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-
 
 ---
 
@@ -79,7 +78,8 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 
 ---
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" width="230" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
+
 
 <div>
 <a href="https://github.com/Neahans">
@@ -109,4 +109,3 @@ Hi! I'm **Neaha N S** — a passionate student and aspiring developer who loves 
 ---
 
 <em><b>I love connecting with fellow developers</b> and tech enthusiasts! Feel free to say <b>hi</b> — I'm always open to learning and collaboration :)</em>
-
