@@ -11,13 +11,17 @@
 
 <img src="animated/girl.gif" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 💻 Student at UEC
-- 👯 Looking to collaborate on open-source projects
-- 🤝 Looking for help improving my backend skills
-- 🌱 Currently learning JavaScript, React, and GitHub workflows
-- 💬 Ask me about frontend basics or anything tech-related
-- ⚡ Fun fact: I debug faster with music playing
+-🎓 Student at UEC pursuing Computer Science/Engineering
 
+-💻 Passionate full-stack developer with Django expertise
+
+-🔒 Cybersecurity enthusiast alongside coding
+
+-🌱 Constantly learning and exploring new technologies
+
+-🔧 Enjoy building secure, scalable applications
+
+-⚡ Fun fact: I debug faster with music playing 🎧
 ---
 
 ## 💫 About Me
