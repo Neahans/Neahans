@@ -21,7 +21,7 @@
 
 -🔧 Enjoy building secure, scalable applications
 
--⚡ Fun fact: I debug faster with music playing 🎧
+
 ---
 
 ## 💫 About Me
